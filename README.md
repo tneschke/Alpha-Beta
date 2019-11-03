@@ -18,14 +18,14 @@ a multiple or factor of the last move (note: 1 is a factor of all other numbers)
 may not be one of those that has already been taken. After a stone is taken, the number is saved
 as the new last move. If a player cannot take a stone, he/she loses the game.
 
-An example game is given below for n = 7:
-Player 1: 3
-Player 2: 6
-Player 1: 2
-Player 2: 4
-Player 1: 1
-Player 2: 7
-Winner: Player 2
+An example game is given below for n = 7:<br />
+Player 1: 3<br />
+Player 2: 6<br />
+Player 1: 2<br />
+Player 2: 4<br />
+Player 1: 1<br />
+Player 2: 7<br />
+Winner: Player 2<br />
 
 ## Usage
 
