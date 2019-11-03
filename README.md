@@ -2,7 +2,7 @@
 
 This program is an alpha-beta pruning search algorithm meant to utilize machine learning in the game of taking stones.
 
-Game Rules
+Game Rules<br />
 The game starts with n stones numbered 1, 2, 3, ..., n. Players take turns removing one of the remaining
 numbered stones. At a given turn there are some restrictions on which numbers (i.e., stones) are legal
 candidates to be taken. 
@@ -32,7 +32,7 @@ Winner: Player 2<br />
 ```bash
 java TakeStones <#stones> <#taken_stones> <list_of_taken_stones> <depth>
 ```
-Example, java Player 7 2 3 6 0
-You have 7 stones while 2 stones, numbered 3 and 6, have already been taken
-it is the Max player’s turn
+Example, java Player 7 2 3 6 0<br />
+You have 7 stones while 2 stones, numbered 3 and 6, have already been taken<br />
+it is the Max player’s turn<br />
 If depth is 0, search to end game states, otherwise to that depth.
